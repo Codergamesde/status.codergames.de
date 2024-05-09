@@ -7,16 +7,40 @@ sites:
     url: https://codergames.de
   - name: Codergames Download
     url: https://download.codergames.de
-  - name: Mail Server
+  - name: Mail-Server
     url: https://mail.codergames.de/
-  - name: SMTP
+  - name: Mail-Server (SMTP)
     check: "tcp-ping"
     url: mail.codergames.de
     port: 25
-  - name: SMTPS
+  - name: Mail-Server (SMTPS)
     check: "tcp-ping"
     url: mail.codergames.de
     port: 465
+  - name: Mail-Server (Submission)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 587
+  - name: Mail-Server (IMAP)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 143
+  - name: Mail-Server (IMAPS)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 993
+  - name: Mail-Server (POP3)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 110
+  - name: Mail-Server (POP3S)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 995
+  - name: Mail-Server (ManageSieve)
+    check: "tcp-ping"
+    url: mail.codergames.de
+    port: 4190
 
     
 status-website:
