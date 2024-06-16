@@ -40,10 +40,10 @@
     "url": "https://mail.codergames.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.codergames.de.ico",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
@@ -51,7 +51,9 @@
     "timeWeek": 687,
     "timeMonth": 621,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-16": 1
+    }
   },
   {
     "name": "Mail-Server (SMTP)",
