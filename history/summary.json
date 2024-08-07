@@ -4,10 +4,10 @@
     "url": "https://codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/codergames.de.ico",
     "slug": "codergames-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 616,
@@ -16,6 +16,7 @@
     "timeMonth": 521,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2024-08-07": 2,
       "2024-06-28": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://download.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/download.codergames.de.ico",
     "slug": "codergames-download",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 529,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-06-28": 16
     }
   },
