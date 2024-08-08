@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codergames.de.ico",
     "slug": "codergames-website",
     "status": "down",
-    "uptime": "99.43%",
+    "uptime": "99.39%",
     "uptimeDay": "51.60%",
-    "uptimeWeek": "92.86%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.39%",
     "time": 611,
     "timeDay": 452,
     "timeWeek": 473,
     "timeMonth": 518,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-08-08": 0,
+      "2024-08-08": 56,
       "2024-08-07": 720,
       "2024-06-28": 16
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.codergames.de.ico",
     "slug": "codergames-download",
     "status": "down",
-    "uptime": "99.44%",
+    "uptime": "99.39%",
     "uptimeDay": "51.60%",
-    "uptimeWeek": "92.87%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.44%",
+    "uptimeWeek": "92.31%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.39%",
     "time": 754,
     "timeDay": 445,
     "timeWeek": 467,
     "timeMonth": 525,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-08-08": 0,
+      "2024-08-08": 56,
       "2024-08-07": 718,
       "2024-06-28": 16
     }
@@ -48,18 +48,19 @@
     "url": "https://mail.codergames.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.codergames.de.ico",
     "slug": "mail-server",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 603,
-    "timeWeek": 582,
-    "timeMonth": 620,
-    "timeYear": 607,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 602,
+    "timeDay": 376,
+    "timeWeek": 539,
+    "timeMonth": 606,
+    "timeYear": 602,
     "dailyMinutesDown": {
+      "2024-08-08": 10,
       "2024-06-16": 15
     }
   },
@@ -68,118 +69,130 @@
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-smtp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 9
+    }
   },
   {
     "name": "Mail-Server (SMTPS)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-smtps",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 111,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 8
+    }
   },
   {
     "name": "Mail-Server (Submission)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-submission",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 7
+    }
   },
   {
     "name": "Mail-Server (IMAP)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 5
+    }
   },
   {
     "name": "Mail-Server (IMAPS)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 4
+    }
   },
   {
     "name": "Mail-Server (POP3)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-pop-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 3
+    }
   },
   {
     "name": "Mail-Server (POP3S)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-pop-3-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
@@ -187,16 +200,18 @@
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 1
+    }
   },
   {
     "name": "Mail-Server (ManageSieve)",
     "url": "mail.codergames.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server-manage-sieve",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,6 +220,8 @@
     "timeWeek": 96,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 0
+    }
   }
 ]
