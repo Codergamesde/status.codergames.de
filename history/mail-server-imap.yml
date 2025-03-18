@@ -1,7 +1,7 @@
 url: mail.codergames.de
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-03-17T23:23:30.117Z
+lastUpdated: 2025-03-18T15:13:32.781Z
 startTime: 2024-05-09T21:26:08.766Z
 generator: Upptime <https://github.com/upptime/upptime>
